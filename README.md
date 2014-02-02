@@ -10,3 +10,4 @@ This change should appear in Pivotal...
 Second test, looks like I got my [] wrong in the comments
 
 Feature 1
+Changes on master branch while adding feature2
